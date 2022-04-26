@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/veldrop/precache-manifest.0bac1caa3d713e4fbd23db174c7ac77d.js"
+  "/veldrop/precache-manifest.41a6ceb8e8c34066feb3ad0288334257.js"
 );
 
 workbox.clientsClaim();

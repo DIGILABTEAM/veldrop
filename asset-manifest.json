@@ -1,5 +1,5 @@
 {
-  "main.css": "/veldrop/static/css/main.ede74d55.chunk.css",
+  "main.css": "/veldrop/static/css/main.dab9060c.chunk.css",
   "main.js": "/veldrop/static/js/main.a2bc7d54.chunk.js",
   "main.js.map": "/veldrop/static/js/main.a2bc7d54.chunk.js.map",
   "runtime~main.js": "/veldrop/static/js/runtime~main.a66264bb.js",
@@ -9,7 +9,7 @@
   "static/js/3.c76dd483.chunk.js": "/veldrop/static/js/3.c76dd483.chunk.js",
   "static/js/3.c76dd483.chunk.js.map": "/veldrop/static/js/3.c76dd483.chunk.js.map",
   "index.html": "/veldrop/index.html",
-  "precache-manifest.0bac1caa3d713e4fbd23db174c7ac77d.js": "/veldrop/precache-manifest.0bac1caa3d713e4fbd23db174c7ac77d.js",
+  "precache-manifest.41a6ceb8e8c34066feb3ad0288334257.js": "/veldrop/precache-manifest.41a6ceb8e8c34066feb3ad0288334257.js",
   "service-worker.js": "/veldrop/service-worker.js",
-  "static/css/main.ede74d55.chunk.css.map": "/veldrop/static/css/main.ede74d55.chunk.css.map"
+  "static/css/main.dab9060c.chunk.css.map": "/veldrop/static/css/main.dab9060c.chunk.css.map"
 }
