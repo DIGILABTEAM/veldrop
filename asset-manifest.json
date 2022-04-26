@@ -1,22 +1,15 @@
 {
-  "files": {
-    "main.css": "/cetaniltmpuzzle/static/css/main.7f3d668e.chunk.css",
-    "main.js": "/cetaniltmpuzzle/static/js/main.0bdadf87.chunk.js",
-    "main.js.map": "/cetaniltmpuzzle/static/js/main.0bdadf87.chunk.js.map",
-    "runtime-main.js": "/cetaniltmpuzzle/static/js/runtime-main.e3157630.js",
-    "runtime-main.js.map": "/cetaniltmpuzzle/static/js/runtime-main.e3157630.js.map",
-    "static/js/2.49733819.chunk.js": "/cetaniltmpuzzle/static/js/2.49733819.chunk.js",
-    "static/js/2.49733819.chunk.js.map": "/cetaniltmpuzzle/static/js/2.49733819.chunk.js.map",
-    "static/js/3.e486f61d.chunk.js": "/cetaniltmpuzzle/static/js/3.e486f61d.chunk.js",
-    "static/js/3.e486f61d.chunk.js.map": "/cetaniltmpuzzle/static/js/3.e486f61d.chunk.js.map",
-    "index.html": "/cetaniltmpuzzle/index.html",
-    "static/css/main.7f3d668e.chunk.css.map": "/cetaniltmpuzzle/static/css/main.7f3d668e.chunk.css.map",
-    "static/js/2.49733819.chunk.js.LICENSE.txt": "/cetaniltmpuzzle/static/js/2.49733819.chunk.js.LICENSE.txt"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.e3157630.js",
-    "static/js/2.49733819.chunk.js",
-    "static/css/main.7f3d668e.chunk.css",
-    "static/js/main.0bdadf87.chunk.js"
-  ]
+  "main.css": "/veldrop/static/css/main.ede74d55.chunk.css",
+  "main.js": "/veldrop/static/js/main.54b76427.chunk.js",
+  "main.js.map": "/veldrop/static/js/main.54b76427.chunk.js.map",
+  "runtime~main.js": "/veldrop/static/js/runtime~main.a66264bb.js",
+  "runtime~main.js.map": "/veldrop/static/js/runtime~main.a66264bb.js.map",
+  "static/js/2.c1f4db70.chunk.js": "/veldrop/static/js/2.c1f4db70.chunk.js",
+  "static/js/2.c1f4db70.chunk.js.map": "/veldrop/static/js/2.c1f4db70.chunk.js.map",
+  "static/js/3.c76dd483.chunk.js": "/veldrop/static/js/3.c76dd483.chunk.js",
+  "static/js/3.c76dd483.chunk.js.map": "/veldrop/static/js/3.c76dd483.chunk.js.map",
+  "index.html": "/veldrop/index.html",
+  "precache-manifest.70326b2a38de0e0b196599f686c4c9cf.js": "/veldrop/precache-manifest.70326b2a38de0e0b196599f686c4c9cf.js",
+  "service-worker.js": "/veldrop/service-worker.js",
+  "static/css/main.ede74d55.chunk.css.map": "/veldrop/static/css/main.ede74d55.chunk.css.map"
 }
