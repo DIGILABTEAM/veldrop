@@ -1,15 +1,15 @@
 {
-  "main.css": "/veldrop/static/css/main.dab9060c.chunk.css",
-  "main.js": "/veldrop/static/js/main.a2bc7d54.chunk.js",
-  "main.js.map": "/veldrop/static/js/main.a2bc7d54.chunk.js.map",
-  "runtime~main.js": "/veldrop/static/js/runtime~main.a66264bb.js",
-  "runtime~main.js.map": "/veldrop/static/js/runtime~main.a66264bb.js.map",
-  "static/js/2.c1f4db70.chunk.js": "/veldrop/static/js/2.c1f4db70.chunk.js",
-  "static/js/2.c1f4db70.chunk.js.map": "/veldrop/static/js/2.c1f4db70.chunk.js.map",
-  "static/js/3.c76dd483.chunk.js": "/veldrop/static/js/3.c76dd483.chunk.js",
-  "static/js/3.c76dd483.chunk.js.map": "/veldrop/static/js/3.c76dd483.chunk.js.map",
-  "index.html": "/veldrop/index.html",
-  "precache-manifest.41a6ceb8e8c34066feb3ad0288334257.js": "/veldrop/precache-manifest.41a6ceb8e8c34066feb3ad0288334257.js",
-  "service-worker.js": "/veldrop/service-worker.js",
-  "static/css/main.dab9060c.chunk.css.map": "/veldrop/static/css/main.dab9060c.chunk.css.map"
+  "files": {
+    "main.css": "/veldrop/static/css/main.389a3571.css",
+    "main.js": "/veldrop/static/js/main.68f123fd.js",
+    "static/js/787.1a1bd934.chunk.js": "/veldrop/static/js/787.1a1bd934.chunk.js",
+    "index.html": "/veldrop/index.html",
+    "main.389a3571.css.map": "/veldrop/static/css/main.389a3571.css.map",
+    "main.68f123fd.js.map": "/veldrop/static/js/main.68f123fd.js.map",
+    "787.1a1bd934.chunk.js.map": "/veldrop/static/js/787.1a1bd934.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.389a3571.css",
+    "static/js/main.68f123fd.js"
+  ]
 }
